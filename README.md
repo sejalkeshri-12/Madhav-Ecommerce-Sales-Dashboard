@@ -38,6 +38,5 @@ The dataset contains ecommerce transaction records, including customer details, 
 This project demonstrates the use of Power BI to transform raw ecommerce data into meaningful visualizations and actionable business intelligence.
 
 ## Dashboard
-![Dashboard Preview](Dashboard 1.png)
-
+![Dashboard Preview]([Dashboard 1.png](https://github.com/sejalkeshri-12/Madhav-Ecommerce-Sales-Dashboard/blob/f8d82d9fdb1f63583ca3b4e1bf3fa9f6e827b086/Dashboard%201.png)
 
